@@ -63,7 +63,7 @@ let TPL = `
 </style>
 
 <div class="dice-roller-widget">
-  <h2>D&D Dice Roller</h2>
+  <h2>Dice Roller</h2>
 
   <div class="dice-controls">
     <button class="dice-button" data-dice="4">D4</button>
@@ -101,7 +101,7 @@ class DiceRollerWidget extends api.RightPanelWidget {
   }
 
   get widgetTitle() {
-    return "D&D Dice Roller";
+    return "Dice Roller";
   }
 
   get parentWidget() {
