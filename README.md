@@ -13,6 +13,8 @@ Based on the work of [AzzyB's D&D Dice Roller Widget for Trilium](https://github
 * D100
 * Custom sized die
 
+![image](https://github.com/lucasalbuquerque57/trilium-dice-roller-widget/blob/main/Screenshot_1.png)
+
 ### Implementation:
 1) Copy/paste this script into a "js frontend" code note.
 2) Add the ```#widget``` to the "Owned Attributes" to enable the widget.
