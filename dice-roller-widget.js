@@ -24,7 +24,7 @@ let TPL = `
     font-family: var(--font-default);
     width: 60px;
     text-align: center;
-    color: white; /*Intended for Dark Mode, remove if using a light theme*/
+    color: white; /*Intended for Dark Mode*/
   }
 
   .dice-roller-widget #dice-result {
